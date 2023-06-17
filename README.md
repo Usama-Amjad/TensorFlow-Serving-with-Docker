@@ -1,4 +1,4 @@
-# TensorFlow_Serving_with_Docker_for_Model_Deployment
+# TensorFlow_Serving_wit_Docker_for_Model_Deployment
 In this course, we  focus on three learning objectives:
 
 Train and export TensorFlow Models for text classification  
